@@ -8,15 +8,12 @@ The Makefile provides the instructions for compiling the application with the CF
 
 ## To run
 
-`
-make
-./helloWorld
-`
+`make`
+`./helloWorld`
 
 ### Output
 
-`
-start task
-Hello World!
-Task name : demo 
-`
+
+`start task`
+`Hello World!`
+`Task name : demo`
